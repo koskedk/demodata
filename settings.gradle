@@ -1,0 +1,5 @@
+rootProject.name = 'demo'
+include 'core'
+include 'data'
+include 'app'
+
